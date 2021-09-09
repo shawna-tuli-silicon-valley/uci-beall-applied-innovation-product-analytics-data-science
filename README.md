@@ -1,2 +1,3 @@
-# uci-applied-innovation-analytics
+# UCI Applied Innovation @ the Cove Analytics 
+
 [Venture Analytics]
