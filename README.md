@@ -1,4 +1,4 @@
-# UCI Applied Innovation @ the Cove Analytics 💛💙
+# UCI Applied Innovation Product Analytics 💛💙
 
 I was the Data Scientist in Engineering at the Cove in Irvine.
 
