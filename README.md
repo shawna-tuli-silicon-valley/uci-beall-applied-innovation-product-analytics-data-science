@@ -1,4 +1,4 @@
-# UCI Applied Innovation Product Analytics 💛💙
+# UCI Beall Applied Innovation Product Analytics 💛💙
 
 I was the Data Scientist in Engineering at the Cove in Irvine.
 
